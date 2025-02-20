@@ -1,0 +1,1 @@
+This repository demonstrates a common race condition bug in shell scripts. Two background processes concurrently write to files, leading to unpredictable output. The solution shows how to avoid this by using proper locking mechanisms.
